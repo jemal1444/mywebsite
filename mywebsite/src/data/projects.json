@@ -1,0 +1,12 @@
+[
+    {
+      "emoji": "🌐",
+      "title": "Personal Portfolio",
+      "description": "A responsive site showcasing my skills, built with Next.js and Tailwind."
+    },
+    {
+      "emoji": "💳",
+      "title": "Secure Payment App",
+      "description": "A mobile-first app with authentication and encrypted transaction data."
+    }
+  ]
